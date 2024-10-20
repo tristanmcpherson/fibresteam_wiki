@@ -1,8 +1,8 @@
 # fibresteam_wiki
-Wiki for the Fibre Steam toolhead designed for the Monolith Gantry
+Wiki for the Fibre Steam toolhead designed for the Monolith Gantry by @Rafi https://github.com/Shamoon78/
 
 ## What is it?
-Fibre Steam is a robust and high performance CPAP toolhead from @Rafi aka https://github.com/Shamoon78/ designed for the Monolith Gantry. Fibre Steam's variants integrate the extruder into the toolhead which allows for accurate CoM balancing for the toolhead. CoM and the overall stiffness of your toolhead is integral to achieving good input shapers for high performance printing. 
+Fibre Steam is a robust and high performance CPAP toolhead designed for the Monolith Gantry. Fibre Steam's variants integrate the extruder into the toolhead which allows for accurate CoM balancing for the toolhead. CoM and the overall stiffness of your toolhead is integral to achieving good input shapers for high performance printing. 
 
 Fibre Steam only currently supports Beacon for its Z homing sensor 
 
