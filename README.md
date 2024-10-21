@@ -47,4 +47,5 @@ For HGX there are two carriage types:
 - Standard Belt Clip carriage (current recommended)
 - New Belt Clamp carriage
 
-I have not had good success using the belt clamp carriage in it's current phase as it is difficult to keep pretension the way the clamps grab onto the belt and then slide into the carriage, reducing the tension on the belt 
+I recommend printing the carriages vertically with supports and it helps with strength.
+I have not had good success using the belt clamp carriage in it's current phase as it is difficult to keep pretension the way the clamps grab onto the belt and then slide into the carriage, reducing the tension on the belt.
