@@ -1,4 +1,4 @@
-# fibresteam_wiki
+# Fibre Steam Toolhead
 Wiki for the Fibre Steam toolhead designed for the Monolith Gantry by @Rafi https://github.com/Shamoon78/
 
 ## What is it?
